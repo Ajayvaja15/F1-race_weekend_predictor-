@@ -1,0 +1,7 @@
+1. define driver and team data
+2. define the random factors : whether, track_type(High-speed, technical), car reliability 
+3. Qualifying Simulation
+4. Race Simulation
+5. Predict the Race Weekend
+
+
